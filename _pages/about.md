@@ -15,19 +15,14 @@ redirect_from:
 
 
 # 🎓 Education
-- **2022.09 - 至今**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 计算机学院 攻读计算机专业博士研究生。
-- **2020.09 - 2022.06**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 计算机学院 攻读计算机专业硕士研究生。
-- **2016.09 - 2020.06**&emsp;<a href="https://www.cqu.edu.cn/" style="color: inherit;">重庆大学(985)</a> 弘深学院/计算机学院 获得计算机专业本科学位。
+- **2024.09 - 至今**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> 工程科学学院 本科（联合培养）。
+- **2023.09 - 2024.06**&emsp;<a href="https://www.swust.edu.cn/" style="color: inherit;">西南科技大学</a> 制造科学与工程学院 本科。
 
 # 📰 News
-- **[2025.04]** 🎉 我以第一作者身份在 **CCF B类会议IWQoS 2025** 上发表了一篇论文，感谢老师的指导和同学的帮助！
-- **[2025.02]** 🎉 我在美国费城AAAI'25上进行了Oral报告，展示材料可参见[slides](/files/slides_2938_oral.pdf)，旅途摄影分享见[blog](/posts/2025/03/photography-1/)。
-- **[2025.02]** 🎉 [USTC DeepSeek](https://chat.ustc.edu.cn/)正式上线！我深度参与学校的DeepSeek服务开发中，并负责了昇腾集群上的模型部署和一些其他辅助工作，也踩了不少坑，可以参见[blog](/posts/2025/02/thinking-4/)。
-- **[2024.12]** 🎉 我们与蔚来汽车公司的智能座舱大模型推理优化合作项目圆满结束，我以第一作者发表论文工作被**CCF A类会议AAAI**录用！
-- **[2024.12]** 🎉 我以共同一作身份在**CCF A类会议INFCOM**上发表论文，感谢Bowen Zhang、Jiahui Hou等所有作者的努力！
-- **[2024.11]** 🎉 在 **泛在智能感知技术创新应用大赛** 中获得三等奖。
-- **[2024.10]** 🎉 我以合作者身份参与**CCF A类中文期刊计算机学报**上发表一篇论文，感谢老师的指导和每一位同学的努力！
-- **[2024.08]** 🎉 我以第一作者身份在 **CCF A类期刊TMC(SCI一区Top)** 上发表一篇论文，感谢老师的指导和同学的帮助！
+- **[2025.10]** 🎉 第二十五届中国科学技术大学RoboGame机器人大赛斩获一等奖！
+- **[2025.09]** 🎉 第二届睿抗机器人开发者大赛（RAICOM）斩获国家级一等奖！
+- **[2024.07]** 🎉 中国国际大学生创新大赛（2025）斩获四川省一等奖！
+- **[2025.06]** 🎉 第十五届全国周培源大学生力学竞赛斩获安徽省一等奖！
 
 # 📚 Publications
 1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  [[paper](https://arxiv.org/abs/2409.14846)] [[code](https://github.com/jyzzz98/A-VL-Adaptive-Attention-for-Large-Vision-Language-Models)] [[slide](/files/slides_2938_oral.pdf)]  

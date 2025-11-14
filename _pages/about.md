@@ -25,34 +25,6 @@ redirect_from:
 - **[2025.06]** 🎉 第十五届全国周培源大学生力学竞赛斩获安徽省一等奖！
 
 # 📚 Publications
-1. <span style="color: red; font-weight: bold;">[AAAI'25 Oral]</span> **A-VL: Adaptive Attention for Large Vision-Language Models.**  [[paper](https://arxiv.org/abs/2409.14846)] [[code](https://github.com/jyzzz98/A-VL-Adaptive-Attention-for-Large-Vision-Language-Models)] [[slide](/files/slides_2938_oral.pdf)]  
-   **Junyang Zhang**, Mu Yuan, Ruiguang Zhong, Puhan Luo, Huiyou Zhan, Ningkang Zhang, Chengchen Hu, Xiangyang Li.  
-   *The 39th Annual AAAI Conference on Artificial Intelligence* **(AAAI 2025, CCF-A)**
-
-3. <span style="color: red; font-weight: bold;">[TMC'24]</span> **WordWhisper: Exploiting Real-Time, Hardware-Dependent IoT Communication Against Eavesdropping.**  
-   **Junyang Zhang**; Jiahui Hou; Ye Tian; Xiang-Yang Li.  
-   *IEEE Transactions on Mobile Computing* **(IEEE TMC, CCF-A, 中科院一区Top, JCR Q1)**
-
-4. <span style="color: red; font-weight: bold;">[INFOCOM'25]</span> **TensAllo: Adaptive Deployment of LLMs on Resource-Constrained Heterogeneous Edge Devices.**  
-   Bowen Zhang, **Junyang Zhang(共同一作)**, Jiahui Hou and Yixin Wang.  
-   *IEEE Conference on Computer Communications* **(IEEE INFOCOM, CCF-A)**
-
-5. <span style="color: red; font-weight: bold;">[IWQoS'25]</span> **Deploy Efficient Large Language Model Distributed Inference Pipeline for Heterogeneous GPUs.**  
-   **Junyang Zhang**, Jiahui Hou, Bowen Zhang and Xiang-Yang Li.  
-   *IEEE/ACM International Symposium on Quality of Service* **(IEEE/ACM IWQoS, CCF-B)**
-   
-6. <span style="color: red; font-weight: bold;">[计算机学报]</span> **面向智能物联网的资源高效模型推理综述**  
-   袁牧，张兰，姚云昊，**张钧洋**，罗溥晗，李向阳.   
-   *CHINESE JOURNAL OF COMPUTERS 计算机学报* **(中文CCF-A)**
-
-7. [PrePrint] **PICE: A Semantic-Driven Progressive Inference System for LLM Serving in Cloud-Edge Networks.**  
-   Huiyou Zhan, Xuan Zhang, Haisheng Tan, Han Tian, Dongping Yong, **Junyang Zhang**, Xiang-Yang Li.   
-   *arXiv*
- 
-8. [PrePrint] **DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models.**  
-   Qihao Lin, Chen Tang, Lan zhang, **Junyang zhang**, Xiangyang Li.   
-   *arXiv* 
-
 
 # 📝 Research
 
@@ -80,9 +52,8 @@ redirect_from:
 
 
 # 🌏 Service
-- 课程助教：担任中科大研究生课程“计算机应用数学”的助教；
-- 组织工作：担任研究生智能物联党支部的组织委员；
-- 志愿活动：图灵大会志愿者、学院晚会志愿者等等……
+- 组织工作：担任班级班长，中国科大校青年中心干事；
+- 志愿活动：中国科大2025科技活动周志愿者、绵中小第三届才艺大赛志愿者等等……
 
 
 # 💫 Hobbies

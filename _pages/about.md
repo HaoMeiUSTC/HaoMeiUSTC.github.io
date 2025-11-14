@@ -11,7 +11,7 @@ redirect_from:
 
 # 👤 Bio
 
-我正在中国科学技术大学（University of Science and Technology of China）攻读计算机专业博士，我的导师是[李向阳教授](https://cs.ustc.edu.cn/2020/0806/c23235a460096/page.htm)（ACM Fellow, IEEE Fellow）。我的研究兴趣是**复杂网络中人工智能模型推理优化**（主要方向），也涉及研究物联网智能感知领域。我的简历[here](/files/张钧洋_USTC_CV_online.pdf)（实时更新），欢迎通过邮件与我联系。
+本人现就读于中国科学技术大学（University of Science and Technology of China）工程科学学院机械设计制造及其自动化专业，侧重机械结构创新设计与跨学科技术实践。凭借相关研究与竞赛积累，收获多项国家级、省级荣誉，持有相关专利及软件著作权，在机械系统优化与创新应用领域持续探索学习。我的简历[here]([https://haomeiustc.github.io/])（实时更新），欢迎通过邮件与我联系。
 
 
 # 🎓 Education

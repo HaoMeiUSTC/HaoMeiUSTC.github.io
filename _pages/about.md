@@ -15,8 +15,8 @@ redirect_from:
 
 
 # 🎓 Education
-- **2024.09 - 至今**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a>&emsp;工程科学学院&emsp;本科（联合培养）。
-- **2023.09 - 2024.06**&emsp;<a href="https://www.swust.edu.cn/" style="color: inherit;">西南科技大学</a>&emsp;制造科学与工程学院&emsp;本科。
+- **2024.09 - 至今**&emsp;<a href="https://ustc.edu.cn/" style="color: inherit;">中国科学技术大学</a> &emsp; 工程科学学院 &emsp; 本科（联合培养）。
+- **2023.09 - 2024.06**&emsp;<a href="https://www.swust.edu.cn/" style="color: inherit;">西南科技大学</a> &emsp; 制造科学与工程学院 &emsp; 本科。
 
 # 📰 News
 - **[2025.10]** 🎉 第二十五届中国科学技术大学RoboGame机器人大赛斩获一等奖！
